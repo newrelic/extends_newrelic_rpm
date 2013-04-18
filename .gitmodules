@@ -37,3 +37,6 @@
 [submodule "newrelic_mongo"]
 	path = newrelic_mongo
 	url = git@github.com:raphaelcm/newrelic_mongo.git
+[submodule "newrelic-carrierwave"]
+	path = newrelic-carrierwave
+	url = git@github.com:tehprofessor/newrelic-carrierwave.git
