@@ -28,3 +28,6 @@
 [submodule "newrelic-grape"]
 	path = newrelic-grape
 	url = git@github.com:flyerhzm/newrelic-grape.git
+[submodule "newrelic-rake"]
+	path = newrelic-rake
+	url = git@github.com:flyerhzm/newrelic-rake.git
