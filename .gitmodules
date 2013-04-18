@@ -10,3 +10,6 @@
 [submodule "newrelic_moped"]
 	path = newrelic_moped
 	url = git@github.com:stevebartholomew/newrelic_moped.git
+[submodule "newrelic-faraday"]
+	path = newrelic-faraday
+	url = git@github.com:Viximo/newrelic-faraday.git
