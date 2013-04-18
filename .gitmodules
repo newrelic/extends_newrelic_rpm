@@ -52,3 +52,6 @@
 [submodule "promiscuous-newrelic"]
 	path = promiscuous-newrelic
 	url = git@github.com:crowdtap/promiscuous-newrelic.git
+[submodule "grape_newrelic"]
+	path = grape_newrelic
+	url = git@github.com:quarter-spiral/grape_newrelic.git
