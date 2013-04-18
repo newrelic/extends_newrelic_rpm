@@ -64,3 +64,6 @@
 [submodule "newrelic-yoga_pants"]
 	path = newrelic-yoga_pants
 	url = git@github.com:DanielHeath/newrelic-yoga_pants.git
+[submodule "better_newrelic_sql_obfuscator"]
+	path = better_newrelic_sql_obfuscator
+	url = git@github.com:projectdx/better_newrelic_sql_obfuscator.git
