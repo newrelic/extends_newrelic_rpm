@@ -46,3 +46,6 @@
 [submodule "newrelic-middleware"]
 	path = newrelic-middleware
 	url = git@github.com:twinturbo/newrelic-middleware.git
+[submodule "strelka-newrelic"]
+	path = strelka-newrelic
+	url = git@github.com:ged/strelka-newrelic.git
