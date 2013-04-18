@@ -31,3 +31,6 @@
 [submodule "newrelic-rake"]
 	path = newrelic-rake
 	url = git@github.com:flyerhzm/newrelic-rake.git
+[submodule "newrelic-vertica"]
+	path = newrelic-vertica
+	url = git@github.com:wvanbergen/newrelic-vertica.git
