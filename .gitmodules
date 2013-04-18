@@ -22,3 +22,6 @@
 [submodule "newrelic-sequel"]
 	path = newrelic-sequel
 	url = git@github.com:realestate-com-au/newrelic-sequel.git
+[submodule "newrelic-excon"]
+	path = newrelic-excon
+	url = git@github.com:helle/newrelic-excon.git
