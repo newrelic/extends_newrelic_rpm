@@ -58,3 +58,6 @@
 [submodule "newrelic-cassandra"]
 	path = newrelic-cassandra
 	url = git@github.com:ryangraham/newrelic-cassandra.git
+[submodule "newrelic-thinking-sphinx"]
+	path = newrelic-thinking-sphinx
+	url = git@github.com:tomharris/newrelic-thinking-sphinx.git
