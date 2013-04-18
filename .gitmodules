@@ -67,3 +67,6 @@
 [submodule "better_newrelic_sql_obfuscator"]
 	path = better_newrelic_sql_obfuscator
 	url = git@github.com:projectdx/better_newrelic_sql_obfuscator.git
+[submodule "lazy_relic"]
+	path = lazy_relic
+	url = git@github.com:ahlatimer/lazy_relic.git
