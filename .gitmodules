@@ -1,3 +1,6 @@
 [submodule "rpm_contrib"]
 	path = rpm_contrib
 	url = git@github.com:newrelic/rpm_contrib.git
+[submodule "newrelic-httpclient"]
+	path = newrelic-httpclient
+	url = git@github.com:yuki24/newrelic-httpclient.git
