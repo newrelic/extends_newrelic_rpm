@@ -70,3 +70,6 @@
 [submodule "lazy_relic"]
 	path = lazy_relic
 	url = git@github.com:ahlatimer/lazy_relic.git
+[submodule "rocket_pants-rpm"]
+	path = rocket_pants-rpm
+	url = git@github.com:filtersquad/rocket_pants-rpm.git
