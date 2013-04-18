@@ -49,3 +49,6 @@
 [submodule "strelka-newrelic"]
 	path = strelka-newrelic
 	url = git@github.com:ged/strelka-newrelic.git
+[submodule "promiscuous-newrelic"]
+	path = promiscuous-newrelic
+	url = git@github.com:crowdtap/promiscuous-newrelic.git
