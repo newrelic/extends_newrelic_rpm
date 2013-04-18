@@ -4,3 +4,6 @@
 [submodule "newrelic-httpclient"]
 	path = newrelic-httpclient
 	url = git@github.com:yuki24/newrelic-httpclient.git
+[submodule "newrelic-redis"]
+	path = newrelic-redis
+	url = git@github.com:evanphx/newrelic-redis.git
