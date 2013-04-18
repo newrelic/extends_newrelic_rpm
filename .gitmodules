@@ -55,3 +55,6 @@
 [submodule "grape_newrelic"]
 	path = grape_newrelic
 	url = git@github.com:quarter-spiral/grape_newrelic.git
+[submodule "newrelic-cassandra"]
+	path = newrelic-cassandra
+	url = git@github.com:ryangraham/newrelic-cassandra.git
