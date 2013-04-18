@@ -40,3 +40,6 @@
 [submodule "newrelic-carrierwave"]
 	path = newrelic-carrierwave
 	url = git@github.com:tehprofessor/newrelic-carrierwave.git
+[submodule "newrelic-devise"]
+	path = newrelic-devise
+	url = git@github.com:mathieuravaux/newrelic-devise.git
