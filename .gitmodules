@@ -61,3 +61,6 @@
 [submodule "newrelic-thinking-sphinx"]
 	path = newrelic-thinking-sphinx
 	url = git@github.com:tomharris/newrelic-thinking-sphinx.git
+[submodule "newrelic-yoga_pants"]
+	path = newrelic-yoga_pants
+	url = git@github.com:DanielHeath/newrelic-yoga_pants.git
