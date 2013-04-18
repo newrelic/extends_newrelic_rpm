@@ -1,0 +1,4 @@
+f=$(basename $1)
+git submodule add $1
+git commit -m "Adding ${f%.*}"
+git log -n 30 --pretty=oneline
