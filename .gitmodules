@@ -43,3 +43,6 @@
 [submodule "newrelic-devise"]
 	path = newrelic-devise
 	url = git@github.com:mathieuravaux/newrelic-devise.git
+[submodule "newrelic-middleware"]
+	path = newrelic-middleware
+	url = git@github.com:twinturbo/newrelic-middleware.git
