@@ -7,3 +7,6 @@
 [submodule "newrelic-redis"]
 	path = newrelic-redis
 	url = git@github.com:evanphx/newrelic-redis.git
+[submodule "newrelic_moped"]
+	path = newrelic_moped
+	url = git@github.com:stevebartholomew/newrelic_moped.git
