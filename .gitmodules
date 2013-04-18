@@ -13,3 +13,6 @@
 [submodule "newrelic-faraday"]
 	path = newrelic-faraday
 	url = git@github.com:Viximo/newrelic-faraday.git
+[submodule "newrelic-riak"]
+	path = newrelic-riak
+	url = git@github.com:alinpopa/newrelic-riak.git
