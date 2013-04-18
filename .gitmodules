@@ -16,3 +16,6 @@
 [submodule "newrelic-riak"]
 	path = newrelic-riak
 	url = git@github.com:alinpopa/newrelic-riak.git
+[submodule "newrelic-workling"]
+	path = newrelic-workling
+	url = git@github.com:aurorafeint/newrelic-workling.git
