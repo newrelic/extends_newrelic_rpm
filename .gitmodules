@@ -34,3 +34,6 @@
 [submodule "newrelic-vertica"]
 	path = newrelic-vertica
 	url = git@github.com:wvanbergen/newrelic-vertica.git
+[submodule "newrelic_mongo"]
+	path = newrelic_mongo
+	url = git@github.com:raphaelcm/newrelic_mongo.git
