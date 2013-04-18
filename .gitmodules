@@ -25,3 +25,6 @@
 [submodule "newrelic-excon"]
 	path = newrelic-excon
 	url = git@github.com:helle/newrelic-excon.git
+[submodule "newrelic-grape"]
+	path = newrelic-grape
+	url = git@github.com:flyerhzm/newrelic-grape.git
