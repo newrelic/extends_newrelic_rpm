@@ -14,7 +14,7 @@ puts `git checkout master`
 
         if github_url
           repo_url = github_url.sub(%r|https?://github\.com/|, 'git@github.com:')
-          cmd = "bash '#{File.expand_path(File.join(File.dirname(__FILE__)}', 'add'))}"
+          cmd = "bash '#{File.expand_path(File.join(File.dirname(__FILE__), 'add'))}'"
           puts `#{cmd} '#{repo_url.gsub("'", "")}'`
         end
       end
