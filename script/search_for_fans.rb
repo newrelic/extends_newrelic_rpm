@@ -1,5 +1,6 @@
 require 'json'
 # get the last 50 updated gems
+puts `git checkout master`
 %w| https://rubygems.org/api/v1/activity/latest https://rubygems.org/api/v1/activity/just_updated.json|.each do |api|
   latest = `curl -s '#{api}'`
 
