@@ -20,4 +20,4 @@ require 'json'
     end
   end
 end
-exec "git push origin master"
+exec "git pull --rebase && git push origin master"
