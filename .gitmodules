@@ -73,6 +73,3 @@
 [submodule "rocket_pants-rpm"]
 	path = rocket_pants-rpm
 	url = git@github.com:filtersquad/rocket_pants-rpm.git
-[submodule "newrelic-samg"]
-	path = newrelic-samg
-	url = git@github.com:samg/newrelic-samg
