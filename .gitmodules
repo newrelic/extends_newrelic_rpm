@@ -76,3 +76,6 @@
 [submodule "newrelic-samg"]
 	path = newrelic-samg
 	url = git@github.com:samg/newrelic-samg
+[submodule "newrelic-typhoeus"]
+	path = newrelic-typhoeus
+	url = git@github.com:sportngin/newrelic-typhoeus
