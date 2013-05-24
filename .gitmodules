@@ -79,3 +79,6 @@
 [submodule "newrelic-typhoeus"]
 	path = newrelic-typhoeus
 	url = git@github.com:sportngin/newrelic-typhoeus
+[submodule "kStrano"]
+	path = kStrano
+	url = git@github.com:Kunstmaan/kStrano
