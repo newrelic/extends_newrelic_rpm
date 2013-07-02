@@ -82,3 +82,6 @@
 [submodule "kStrano"]
 	path = kStrano
 	url = git@github.com:Kunstmaan/kStrano
+[submodule "newrelic-curb"]
+	path = newrelic-curb
+	url = git@github.com:afex/newrelic-curb
