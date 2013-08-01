@@ -85,3 +85,6 @@
 [submodule "newrelic-curb"]
 	path = newrelic-curb
 	url = git@github.com:afex/newrelic-curb
+[submodule "metro_relic"]
+	path = metro_relic
+	url = git@github.com:hashrocket/metro_relic
