@@ -88,9 +88,6 @@
 [submodule "metro_relic"]
 	path = metro_relic
 	url = git@github.com:hashrocket/metro_relic
-[submodule "newrelic_aws"]
-	path = newrelic_aws
-	url = git@github.com:kylev/newrelic_aws
 [submodule "newrelic-aws"]
 	path = newrelic-aws
 	url = git@github.com:change/newrelic-aws
