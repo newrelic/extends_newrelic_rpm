@@ -91,3 +91,6 @@
 [submodule "newrelic-aws"]
 	path = newrelic-aws
 	url = git@github.com:change/newrelic-aws
+[submodule "capistrano-newrelic"]
+	path = capistrano-newrelic
+	url = git@github.com:seuros/capistrano-newrelic
