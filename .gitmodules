@@ -94,3 +94,6 @@
 [submodule "capistrano-newrelic"]
 	path = capistrano-newrelic
 	url = git@github.com:seuros/capistrano-newrelic
+[submodule "mina-newrelic"]
+	path = mina-newrelic
+	url = git@github.com:navinpeiris/mina-newrelic
