@@ -97,3 +97,6 @@
 [submodule "mina-newrelic"]
 	path = mina-newrelic
 	url = git@github.com:navinpeiris/mina-newrelic
+[submodule "adhearsion-reporter"]
+	path = adhearsion-reporter
+	url = git@github.com:adhearsion/adhearsion-reporter
