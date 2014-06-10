@@ -100,3 +100,6 @@
 [submodule "adhearsion-reporter"]
 	path = adhearsion-reporter
 	url = git@github.com:adhearsion/adhearsion-reporter
+[submodule "newrelic-webmachine"]
+	path = newrelic-webmachine
+	url = git@github.com:mdub/newrelic-webmachine
