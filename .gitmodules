@@ -103,3 +103,6 @@
 [submodule "newrelic-webmachine"]
 	path = newrelic-webmachine
 	url = git@github.com:mdub/newrelic-webmachine
+[submodule "newrelic-couchbase"]
+	path = newrelic-couchbase
+	url = git@github.com:kurobase/newrelic-couchbase
