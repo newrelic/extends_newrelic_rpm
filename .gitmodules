@@ -109,3 +109,6 @@
 [submodule "newrelic-cql"]
 	path = newrelic-cql
 	url = git@github.com:change/newrelic-cql
+[submodule "sidekiq_new_relic_middleware"]
+	path = sidekiq_new_relic_middleware
+	url = git@github.com:indiebrain/sidekiq_new_relic_middleware
