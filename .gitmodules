@@ -112,3 +112,6 @@
 [submodule "sidekiq_new_relic_middleware"]
 	path = sidekiq_new_relic_middleware
 	url = git@github.com:indiebrain/sidekiq_new_relic_middleware
+[submodule "catarse_full"]
+	path = catarse_full
+	url = git@github.com:marnen/catarse_full
