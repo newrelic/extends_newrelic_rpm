@@ -115,3 +115,6 @@
 [submodule "catarse_full"]
 	path = catarse_full
 	url = git@github.com:marnen/catarse_full
+[submodule "trogdir-api"]
+	path = trogdir-api
+	url = git@github.com:biola/trogdir-api
