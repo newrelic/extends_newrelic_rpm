@@ -118,3 +118,6 @@
 [submodule "trogdir-api"]
 	path = trogdir-api
 	url = git@github.com:biola/trogdir-api
+[submodule "statsn"]
+	path = statsn
+	url = git@github.com:grosser/statsn
