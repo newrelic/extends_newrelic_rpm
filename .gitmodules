@@ -121,3 +121,6 @@
 [submodule "statsn"]
 	path = statsn
 	url = git@github.com:grosser/statsn
+[submodule "prun-ops"]
+	path = prun-ops
+	url = git@github.com:jlebrijo/prun-ops
