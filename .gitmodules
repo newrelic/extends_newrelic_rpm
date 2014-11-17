@@ -124,3 +124,6 @@
 [submodule "prun-ops"]
 	path = prun-ops
 	url = git@github.com:jlebrijo/prun-ops
+[submodule "rails-api-newrelic"]
+	path = rails-api-newrelic
+	url = https://github.com/covermymeds/rails-api-newrelic
