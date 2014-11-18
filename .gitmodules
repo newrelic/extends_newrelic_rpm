@@ -127,3 +127,6 @@
 [submodule "rails-api-newrelic"]
 	path = rails-api-newrelic
 	url = https://github.com/covermymeds/rails-api-newrelic
+[submodule "newrelic-roda"]
+	path = newrelic-roda
+	url = git@github.com:mikz/newrelic-roda
