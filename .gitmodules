@@ -130,3 +130,6 @@
 [submodule "newrelic-roda"]
 	path = newrelic-roda
 	url = git@github.com:mikz/newrelic-roda
+[submodule "cleansweep"]
+	path = cleansweep
+	url = git@github.com:bkayser/cleansweep
