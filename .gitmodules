@@ -133,3 +133,6 @@
 [submodule "cleansweep"]
 	path = cleansweep
 	url = git@github.com:bkayser/cleansweep
+[submodule "rest-ftp-daemon"]
+	path = rest-ftp-daemon
+	url = git@github.com:bmedici/rest-ftp-daemon
