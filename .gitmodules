@@ -136,3 +136,6 @@
 [submodule "rest-ftp-daemon"]
 	path = rest-ftp-daemon
 	url = git@github.com:bmedici/rest-ftp-daemon
+[submodule "newrelic-lotus"]
+	path = newrelic-lotus
+	url = git@github.com:artemeff/newrelic-lotus
