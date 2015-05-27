@@ -139,3 +139,6 @@
 [submodule "newrelic-lotus"]
 	path = newrelic-lotus
 	url = git@github.com:artemeff/newrelic-lotus
+[submodule "rdkit"]
+	path = rdkit
+	url = git@github.com:forresty/rdkit
