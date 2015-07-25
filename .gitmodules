@@ -142,3 +142,6 @@
 [submodule "rdkit"]
 	path = rdkit
 	url = git@github.com:forresty/rdkit
+[submodule "newrelic_mongodb"]
+	path = newrelic_mongodb
+	url = git@github.com:weeyum/newrelic_mongodb
