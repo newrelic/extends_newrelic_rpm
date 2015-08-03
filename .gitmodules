@@ -145,3 +145,6 @@
 [submodule "newrelic_mongodb"]
 	path = newrelic_mongodb
 	url = git@github.com:weeyum/newrelic_mongodb
+[submodule "newrelic-daybreak"]
+	path = newrelic-daybreak
+	url = git@github.com:warrenguy/newrelic-daybreak
