@@ -8,7 +8,7 @@ This repository uses git submodules to link any related gems we're aware of. Whi
 ## Usage
 An automated scripts monitors new gem pushes to rubygems.org listing `newrelic_rpm` as a dependency.
 
-We're also very happy to accept pull requests if your gem isn't get caught automatically.
+We're also very happy to accept pull requests if your gem doesn't get caught automatically.
 
 ## Adding Gems
 There's a script to simplify adding to the repo.
