@@ -148,3 +148,6 @@
 [submodule "newrelic-daybreak"]
 	path = newrelic-daybreak
 	url = git@github.com:warrenguy/newrelic-daybreak
+[submodule "newrelic-praxis"]
+	path = newrelic-praxis
+	url = git@github.com:rightscale/newrelic-praxis
