@@ -151,3 +151,6 @@
 [submodule "newrelic-praxis"]
 	path = newrelic-praxis
 	url = git@github.com:rightscale/newrelic-praxis
+[submodule "vertica"]
+	path = vertica
+	url = git@github.com:sprsquish/vertica
