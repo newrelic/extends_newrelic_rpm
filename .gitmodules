@@ -154,3 +154,6 @@
 [submodule "vertica"]
 	path = vertica
 	url = git@github.com:sprsquish/vertica
+[submodule "newrelic-zookeeper"]
+	path = newrelic-zookeeper
+	url = git@github.com:jcmfernandes/newrelic-zookeeper
