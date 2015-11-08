@@ -157,3 +157,6 @@
 [submodule "newrelic-zookeeper"]
 	path = newrelic-zookeeper
 	url = git@github.com:jcmfernandes/newrelic-zookeeper
+[submodule "silvermind_deployment"]
+	path = silvermind_deployment
+	url = git@github.com:silvermind/silvermind_deployment
