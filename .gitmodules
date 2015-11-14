@@ -160,3 +160,6 @@
 [submodule "silvermind_deployment"]
 	path = silvermind_deployment
 	url = git@github.com:silvermind/silvermind_deployment
+[submodule "h2ocube_rails_production"]
+	path = h2ocube_rails_production
+	url = git@github.com:h2ocube/h2ocube_rails_production
