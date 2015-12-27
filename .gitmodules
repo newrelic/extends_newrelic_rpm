@@ -163,3 +163,6 @@
 [submodule "h2ocube_rails_production"]
 	path = h2ocube_rails_production
 	url = git@github.com:h2ocube/h2ocube_rails_production
+[submodule "newrelic-slack-ruby-bot"]
+	path = newrelic-slack-ruby-bot
+	url = git@github.com:dblock/newrelic-slack-ruby-bot
