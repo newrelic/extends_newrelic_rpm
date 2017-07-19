@@ -184,3 +184,6 @@
 [submodule "geoip_server"]
 	path = geoip_server
 	url = http://github.com/JackDanger/geoip_server
+[submodule "talentbox-newrelic-sequel"]
+	path = talentbox-newrelic-sequel
+	url = http://github.com/TalentBox/newrelic-sequel
