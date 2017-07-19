@@ -202,3 +202,6 @@
 [submodule "newrelic_logger_extension"]
 	path = newrelic_logger_extension
 	url = https://www.github.com/experteer/newrelic_logger_extension
+[submodule "co_aspects"]
+	path = co_aspects
+	url = https://github.com/comparaonline/co_aspects
