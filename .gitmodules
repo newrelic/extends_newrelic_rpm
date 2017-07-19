@@ -190,3 +190,6 @@
 [submodule "metriks-reporter-new_relic"]
 	path = metriks-reporter-new_relic
 	url = https://github.com/newrelic/metriks-reporter-new_relic
+[submodule "okcomputer-newrelic-ignore"]
+	path = okcomputer-newrelic-ignore
+	url = https://github.com/sportngin/okcomputer-newrelic-ignore
