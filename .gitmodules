@@ -178,3 +178,6 @@
 [submodule "haproxy2rpm"]
 	path = haproxy2rpm
 	url = https://github.com/wooga/haproxy2rpm
+[submodule "padrino-rpm"]
+	path = padrino-rpm
+	url = http://github.com/Asquera/padrino-rpm
