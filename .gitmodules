@@ -220,3 +220,6 @@
 [submodule "rester"]
 	path = rester
 	url = http://github.com/payout/rester
+[submodule "newrelic_httprb"]
+	path = newrelic_httprb
+	url = https://github.com/Talkdesk/newrelic_httprb
