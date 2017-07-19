@@ -199,3 +199,6 @@
 [submodule "newrelic_aws"]
 	path = newrelic_aws
 	url = http://github.com/change/newrelic-aws
+[submodule "newrelic_logger_extension"]
+	path = newrelic_logger_extension
+	url = https://www.github.com/experteer/newrelic_logger_extension
