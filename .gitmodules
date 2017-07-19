@@ -196,3 +196,6 @@
 [submodule "puppet-newrelic"]
 	path = puppet-newrelic
 	url = https://github.com/georgebashi/puppet-newrelic
+[submodule "newrelic_aws"]
+	path = newrelic_aws
+	url = http://github.com/change/newrelic-aws
