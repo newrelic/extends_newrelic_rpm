@@ -259,3 +259,6 @@
 [submodule "newrelic_em_http"]
 	path = newrelic_em_http
 	url = https://github.com/railsware/newrelic_em_http
+[submodule "roo_on_rails"]
+	path = roo_on_rails
+	url = https://github.com/deliveroo/roo_on_rails
