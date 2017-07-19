@@ -226,3 +226,6 @@
 [submodule "message-driver-newrelic"]
 	path = message-driver-newrelic
 	url = https://github.com/message-driver/message-driver-newrelic
+[submodule "elasticsearch-newrelic"]
+	path = elasticsearch-newrelic
+	url = https://github.com/liamwhite/elasticsearch-newrelic
