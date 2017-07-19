@@ -232,3 +232,6 @@
 [submodule "liebre-newrelic"]
 	path = liebre-newrelic
 	url = https://github.com/iadbox/liebre-newrelic
+[submodule "newrelic_presto"]
+	path = newrelic_presto
+	url = https://github.com/hbin/newrelic-presto
