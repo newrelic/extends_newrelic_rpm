@@ -187,3 +187,6 @@
 [submodule "talentbox-newrelic-sequel"]
 	path = talentbox-newrelic-sequel
 	url = http://github.com/TalentBox/newrelic-sequel
+[submodule "metriks-reporter-new_relic"]
+	path = metriks-reporter-new_relic
+	url = https://github.com/newrelic/metriks-reporter-new_relic
