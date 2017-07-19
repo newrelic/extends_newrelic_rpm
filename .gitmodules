@@ -238,3 +238,6 @@
 [submodule "newrelic-hanami"]
 	path = newrelic-hanami
 	url = https://github.com/artemeff/newrelic-hanami
+[submodule "partiarelic"]
+	path = partiarelic
+	url = https://github.com/wata-gh/partiarelic
