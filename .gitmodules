@@ -214,3 +214,6 @@
 [submodule "blabbermouth-new_relic"]
 	path = blabbermouth-new_relic
 	url = http://github.com/markrebec/blabbermouth
+[submodule "newrelic_kafka"]
+	path = newrelic_kafka
+	url = http://github.com/apptentive-engineering/newrelic_kafka
