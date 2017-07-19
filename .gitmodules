@@ -244,3 +244,6 @@
 [submodule "pushyd"]
 	path = pushyd
 	url = http://github.com/bmedici/pushyd
+[submodule "rumination"]
+	path = rumination
+	url = https://github.com/artm/rumination
