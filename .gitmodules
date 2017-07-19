@@ -250,3 +250,6 @@
 [submodule "newrelic-elasticsearch"]
 	path = newrelic-elasticsearch
 	url = http://github.com/goldstar/newrelic-elasticsearch
+[submodule "production_toolkit"]
+	path = production_toolkit
+	url = http://github.com/sealink/production_toolkit
