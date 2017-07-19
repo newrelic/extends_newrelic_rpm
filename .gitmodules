@@ -223,3 +223,6 @@
 [submodule "newrelic_httprb"]
 	path = newrelic_httprb
 	url = https://github.com/Talkdesk/newrelic_httprb
+[submodule "message-driver-newrelic"]
+	path = message-driver-newrelic
+	url = https://github.com/message-driver/message-driver-newrelic
