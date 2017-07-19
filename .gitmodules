@@ -166,3 +166,6 @@
 [submodule "newrelic-slack-ruby-bot"]
 	path = newrelic-slack-ruby-bot
 	url = git@github.com:dblock/newrelic-slack-ruby-bot
+[submodule "cucumber-newrelic"]
+	path = cucumber-newrelic
+	url = http://github.com/jnewland/cucumber-newrelic
