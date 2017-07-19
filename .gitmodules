@@ -253,3 +253,6 @@
 [submodule "production_toolkit"]
 	path = production_toolkit
 	url = http://github.com/sealink/production_toolkit
+[submodule "cf_light_api"]
+	path = cf_light_api
+	url = https://github.com/springerpe/cf-light-api
