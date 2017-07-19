@@ -208,3 +208,6 @@
 [submodule "faraday_error"]
 	path = faraday_error
 	url = https://github.com/jelder/faraday_error/
+[submodule "newrelic_patron"]
+	path = newrelic_patron
+	url = http://github.com/nagliyvred/newrelic-patron
