@@ -262,3 +262,6 @@
 [submodule "roo_on_rails"]
 	path = roo_on_rails
 	url = https://github.com/deliveroo/roo_on_rails
+[submodule "newrelic-shoes"]
+	path = newrelic-shoes
+	url = https://github.com/jasonrclark/newrelic-shoes
