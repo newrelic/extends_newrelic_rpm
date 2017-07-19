@@ -211,3 +211,6 @@
 [submodule "newrelic_patron"]
 	path = newrelic_patron
 	url = http://github.com/nagliyvred/newrelic-patron
+[submodule "blabbermouth-new_relic"]
+	path = blabbermouth-new_relic
+	url = http://github.com/markrebec/blabbermouth
