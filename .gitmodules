@@ -169,3 +169,6 @@
 [submodule "cucumber-newrelic"]
 	path = cucumber-newrelic
 	url = http://github.com/jnewland/cucumber-newrelic
+[submodule "pdfservice"]
+	path = pdfservice
+	url = http://github.com/JackDanger/pdfservice
