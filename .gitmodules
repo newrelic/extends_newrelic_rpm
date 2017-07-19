@@ -235,3 +235,6 @@
 [submodule "newrelic_presto"]
 	path = newrelic_presto
 	url = https://github.com/hbin/newrelic-presto
+[submodule "newrelic-hanami"]
+	path = newrelic-hanami
+	url = https://github.com/artemeff/newrelic-hanami
