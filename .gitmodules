@@ -172,3 +172,6 @@
 [submodule "pdfservice"]
 	path = pdfservice
 	url = http://github.com/JackDanger/pdfservice
+[submodule "engine_of_war"]
+	path = engine_of_war
+	url = http://github.com/thunderboltlabs/engine-of-war
