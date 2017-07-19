@@ -229,3 +229,6 @@
 [submodule "elasticsearch-newrelic"]
 	path = elasticsearch-newrelic
 	url = https://github.com/liamwhite/elasticsearch-newrelic
+[submodule "liebre-newrelic"]
+	path = liebre-newrelic
+	url = https://github.com/iadbox/liebre-newrelic
