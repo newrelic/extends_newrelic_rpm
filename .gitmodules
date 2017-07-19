@@ -181,3 +181,6 @@
 [submodule "padrino-rpm"]
 	path = padrino-rpm
 	url = http://github.com/Asquera/padrino-rpm
+[submodule "geoip_server"]
+	path = geoip_server
+	url = http://github.com/JackDanger/geoip_server
