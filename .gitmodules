@@ -256,3 +256,6 @@
 [submodule "cf_light_api"]
 	path = cf_light_api
 	url = https://github.com/springerpe/cf-light-api
+[submodule "newrelic_em_http"]
+	path = newrelic_em_http
+	url = https://github.com/railsware/newrelic_em_http
