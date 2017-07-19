@@ -241,3 +241,6 @@
 [submodule "partiarelic"]
 	path = partiarelic
 	url = https://github.com/wata-gh/partiarelic
+[submodule "pushyd"]
+	path = pushyd
+	url = http://github.com/bmedici/pushyd
