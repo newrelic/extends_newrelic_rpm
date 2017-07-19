@@ -247,3 +247,6 @@
 [submodule "rumination"]
 	path = rumination
 	url = https://github.com/artm/rumination
+[submodule "newrelic-elasticsearch"]
+	path = newrelic-elasticsearch
+	url = http://github.com/goldstar/newrelic-elasticsearch
