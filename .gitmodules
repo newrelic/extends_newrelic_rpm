@@ -205,3 +205,6 @@
 [submodule "co_aspects"]
 	path = co_aspects
 	url = https://github.com/comparaonline/co_aspects
+[submodule "faraday_error"]
+	path = faraday_error
+	url = https://github.com/jelder/faraday_error/
