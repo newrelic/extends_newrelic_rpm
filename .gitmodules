@@ -175,3 +175,6 @@
 [submodule "engine_of_war"]
 	path = engine_of_war
 	url = http://github.com/thunderboltlabs/engine-of-war
+[submodule "haproxy2rpm"]
+	path = haproxy2rpm
+	url = https://github.com/wooga/haproxy2rpm
