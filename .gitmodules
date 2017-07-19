@@ -193,3 +193,6 @@
 [submodule "okcomputer-newrelic-ignore"]
 	path = okcomputer-newrelic-ignore
 	url = https://github.com/sportngin/okcomputer-newrelic-ignore
+[submodule "puppet-newrelic"]
+	path = puppet-newrelic
+	url = https://github.com/georgebashi/puppet-newrelic
