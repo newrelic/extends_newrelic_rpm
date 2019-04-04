@@ -274,3 +274,6 @@
 [submodule "yabeda-newrelic"]
 	path = yabeda-newrelic
 	url = https://github.com/yabeda-rb/yabeda-newrelic
+[submodule "shift-circuit-breaker"]
+	path = shift-circuit-breaker
+	url = https://github.com/shiftcommerce/shift-circuit-breaker
