@@ -277,3 +277,6 @@
 [submodule "shift-circuit-breaker"]
 	path = shift-circuit-breaker
 	url = https://github.com/shiftcommerce/shift-circuit-breaker
+[submodule "rack-new_relic-starter"]
+	path = rack-new_relic-starter
+	url = https://github.com/kaorimatz/rack-new_relic-starter
