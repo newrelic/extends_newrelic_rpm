@@ -268,3 +268,6 @@
 [submodule "heartcheck-newrelic"]
 	path = heartcheck-newrelic
 	url = https://github.com/locaweb/heartcheck-newrelic
+[submodule "errbase"]
+	path = errbase
+	url = https://github.com/ankane/errbase
