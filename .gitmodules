@@ -271,3 +271,6 @@
 [submodule "errbase"]
 	path = errbase
 	url = https://github.com/ankane/errbase
+[submodule "yabeda-newrelic"]
+	path = yabeda-newrelic
+	url = https://github.com/yabeda-rb/yabeda-newrelic
