@@ -280,3 +280,6 @@
 [submodule "rack-new_relic-starter"]
 	path = rack-new_relic-starter
 	url = https://github.com/kaorimatz/rack-new_relic-starter
+[submodule "nulogy-fitter-happier"]
+	path = nulogy-fitter-happier
+	url = https://github.com/nulogy/fitter-happier
