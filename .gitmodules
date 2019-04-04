@@ -289,3 +289,6 @@
 [submodule "newrelic-manticore"]
 	path = newrelic-manticore
 	url = https://github.com/runtastic/newrelic-manticore
+[submodule "new_relic-starter"]
+	path = new_relic-starter
+	url = https://github.com/kaorimatz/new_relic-starter
