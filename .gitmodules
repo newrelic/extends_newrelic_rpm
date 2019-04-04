@@ -265,3 +265,6 @@
 [submodule "newrelic-shoes"]
 	path = newrelic-shoes
 	url = https://github.com/jasonrclark/newrelic-shoes
+[submodule "heartcheck-newrelic"]
+	path = heartcheck-newrelic
+	url = https://github.com/locaweb/heartcheck-newrelic
