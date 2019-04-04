@@ -286,3 +286,6 @@
 [submodule "switchman-inst-jobs"]
 	path = switchman-inst-jobs
 	url = https://github.com/instructure/switchman-inst-jobs
+[submodule "newrelic-manticore"]
+	path = newrelic-manticore
+	url = https://github.com/runtastic/newrelic-manticore
