@@ -295,3 +295,6 @@
 [submodule "newrelic-sidekiq-metrics"]
 	path = newrelic-sidekiq-metrics
 	url = https://github.com/RenoFi/newrelic-sidekiq-metrics
+[submodule "grpc_newrelic_interceptor"]
+	path = grpc_newrelic_interceptor
+	url = https://github.com/south37/grpc_newrelic_interceptor
