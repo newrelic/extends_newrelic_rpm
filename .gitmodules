@@ -292,3 +292,6 @@
 [submodule "new_relic-starter"]
 	path = new_relic-starter
 	url = https://github.com/kaorimatz/new_relic-starter
+[submodule "newrelic-sidekiq-metrics"]
+	path = newrelic-sidekiq-metrics
+	url = https://github.com/RenoFi/newrelic-sidekiq-metrics
