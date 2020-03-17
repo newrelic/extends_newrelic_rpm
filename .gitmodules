@@ -298,3 +298,6 @@
 [submodule "grpc_newrelic_interceptor"]
 	path = grpc_newrelic_interceptor
 	url = https://github.com/south37/grpc_newrelic_interceptor
+[submodule "lcms-engine"]
+	path = lcms-engine
+	url = https://github.com/learningtapestry/lcms-engine
